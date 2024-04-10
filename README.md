@@ -1,4 +1,4 @@
-## Supervised Machine Learning Repository
+# Supervised Machine Learning Repository
 
 Welcome to the 'Supervised Machine Learning' repository! This repository is your comprehensive guide to supervised learning techniques in Python, focusing on both classification and regression tasks. Additionally, it includes resources and examples utilizing PyCaret, a low-code machine learning library that simplifies the machine learning workflow.
 
