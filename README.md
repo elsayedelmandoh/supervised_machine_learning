@@ -1,4 +1,4 @@
-# Supervised Machine Learning Repository
+## Supervised Machine Learning Repository
 
 Welcome to the 'Supervised Machine Learning' repository! This repository is your comprehensive guide to supervised learning techniques in Python, focusing on both classification and regression tasks. Additionally, it includes resources and examples utilizing PyCaret, a low-code machine learning library that simplifies the machine learning workflow.
 
@@ -9,6 +9,10 @@ Welcome to the 'Supervised Machine Learning' repository! This repository is your
 - PyCaret: Learn how to leverage PyCaret for streamlined machine learning experimentation, including automated feature engineering, model selection, hyperparameter tuning, and model deployment.
 
 Whether you're new to supervised learning or seeking to enhance your skills, this repository provides valuable content, examples, and resources to support your journey.
+
+## Project
+
+[Automated Machine Learning](https://github.com/elsayedelmandoh/automated_ml)
 
 ## Contributing
 
